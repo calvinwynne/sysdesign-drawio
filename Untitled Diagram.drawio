@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="vz5XrmuwVUfS0o30BBLn-2" edge="1" parent="1" source="xhMvbtIVV55DSdEMs5aV-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#0B4D6A;" target="vz5XrmuwVUfS0o30BBLn-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="xhMvbtIVV55DSdEMs5aV-23" parent="1" style="whiteSpace=wrap;html=1;fillColor=none;" value="" vertex="1">
           <mxGeometry height="87.33" width="120" x="352" y="48.67" as="geometry" />
         </mxCell>
@@ -48,6 +51,18 @@
         </mxCell>
         <mxCell id="xhMvbtIVV55DSdEMs5aV-20" edge="1" parent="1" source="xhMvbtIVV55DSdEMs5aV-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#0B4D6A;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="xhMvbtIVV55DSdEMs5aV-11" value="">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vz5XrmuwVUfS0o30BBLn-1" parent="1" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;fillColor=#FF6A00;strokeColor=none;shape=mxgraph.alibaba_cloud.dns_privatezone_02;fontColor=#EEEEEE;" value="" vertex="1">
+          <mxGeometry height="52.2" width="49.8" x="168" y="66.24" as="geometry" />
+        </mxCell>
+        <mxCell id="vz5XrmuwVUfS0o30BBLn-4" parent="1" style="text;html=1;whiteSpace=wrap;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Web server" vertex="1">
+          <mxGeometry height="30" width="86" x="744" y="48.66999999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="vz5XrmuwVUfS0o30BBLn-5" parent="1" style="text;html=1;whiteSpace=wrap;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="GET https://xxx.com/api/v1/my/feed" vertex="1">
+          <mxGeometry height="30" width="198" x="443" y="168" as="geometry" />
+        </mxCell>
+        <mxCell id="vz5XrmuwVUfS0o30BBLn-6" parent="1" style="text;html=1;whiteSpace=wrap;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="POST https://xxx.com/api/v1/post" vertex="1">
+          <mxGeometry height="30" width="221" x="425" y="192" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
