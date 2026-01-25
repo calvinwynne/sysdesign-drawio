@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.3.4">
   <diagram name="Page-1" id="L5Tg8j7ORj3MkpJO9NcD">
-    <mxGraphModel dx="1245" dy="1018" grid="1" gridSize="8" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="806" dy="659" grid="1" gridSize="8" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -242,6 +242,9 @@
         </mxCell>
         <mxCell id="vz5XrmuwVUfS0o30BBLn-73" parent="1" style="text;html=1;whiteSpace=wrap;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 28px;&quot;&gt;News Feed POST&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="198" x="632" y="36.24" as="geometry" />
+        </mxCell>
+        <mxCell id="vz5XrmuwVUfS0o30BBLn-74" parent="1" style="text;html=1;whiteSpace=wrap;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;b&gt;Fanout Write&lt;/b&gt;: Writes it immediately to everyone (Push model).&lt;br&gt;&lt;br&gt;&lt;div style=&quot;&quot;&gt;&lt;b&gt;Fanout Read&lt;/b&gt;: Post is stored in one place and when followers open the feed, it populates for them (Pull model)&amp;nbsp;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="128" width="200" x="488" y="870.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
