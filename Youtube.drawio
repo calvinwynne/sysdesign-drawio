@@ -184,7 +184,7 @@
         </mxCell>
         <mxCell id="mGbMi7z_JAh0J8tC-Svn-54" edge="1" parent="1" source="mGbMi7z_JAh0J8tC-Svn-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-80" y="730" as="targetPoint" />
+            <mxPoint x="-93" y="730" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="mGbMi7z_JAh0J8tC-Svn-48" parent="1" style="shape=mxgraph.networks2.icon;aspect=fixed;fillColor=#EDEDED;strokeColor=#000000;gradientColor=#5B6163;network2IconShadow=1;network2bgFillColor=none;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;network2Icon=mxgraph.networks2.data_storage;network2IconW=0.8252;network2IconH=0.9989;" value="" vertex="1">
